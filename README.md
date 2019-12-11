@@ -7,4 +7,4 @@ Dans cette activité les élèves vont manipuler des données en temps réel pro
 ## Récuperer l'activité
 Si vous possédez un compte arcgis et que vous souhaitez juste consulter la carte, rendez vous [ici](https://arcg.is/0WCmLi0)
 
-Pour récuperer l'activité faites en salle avec les élèves il suffit de 
+Pour récuperer l'activité faites en salle avec les élèves il suffit de cliquer [ici](https://github.com/Svt-lim/Arcgis/archive/master.zip)
