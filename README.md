@@ -1,2 +1,2 @@
 # Arcgis
-Des acctivités / tuto pour arcgis online
+Des activités / tuto pour arcgis online
